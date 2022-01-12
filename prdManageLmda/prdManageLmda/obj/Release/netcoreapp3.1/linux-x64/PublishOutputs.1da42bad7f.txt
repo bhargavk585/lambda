@@ -1,0 +1,13 @@
+D:\Softwares\FSE\prdManageLmda\prdManageLmda\bin\Release\netcoreapp3.1\publish\prdManageLmda.dll
+D:\Softwares\FSE\prdManageLmda\prdManageLmda\bin\Release\netcoreapp3.1\publish\prdManageLmda.deps.json
+D:\Softwares\FSE\prdManageLmda\prdManageLmda\bin\Release\netcoreapp3.1\publish\prdManageLmda.runtimeconfig.json
+D:\Softwares\FSE\prdManageLmda\prdManageLmda\bin\Release\netcoreapp3.1\publish\prdManageLmda.pdb
+D:\Softwares\FSE\prdManageLmda\prdManageLmda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.APIGatewayEvents.dll
+D:\Softwares\FSE\prdManageLmda\prdManageLmda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+D:\Softwares\FSE\prdManageLmda\prdManageLmda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.AspNetCoreServer.dll
+D:\Softwares\FSE\prdManageLmda\prdManageLmda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+D:\Softwares\FSE\prdManageLmda\prdManageLmda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Logging.AspNetCore.dll
+D:\Softwares\FSE\prdManageLmda\prdManageLmda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\Softwares\FSE\prdManageLmda\prdManageLmda\bin\Release\netcoreapp3.1\publish\AWSSDK.Core.dll
+D:\Softwares\FSE\prdManageLmda\prdManageLmda\bin\Release\netcoreapp3.1\publish\AWSSDK.DynamoDBv2.dll
+D:\Softwares\FSE\prdManageLmda\prdManageLmda\bin\Release\netcoreapp3.1\publish\AWSSDK.Lambda.dll

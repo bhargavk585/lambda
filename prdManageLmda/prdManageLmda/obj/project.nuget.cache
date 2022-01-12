@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "b5UJJLAVg8URend2oUhHMWsbkrP5DFNiXvodZGP8dwust0orwjGpXS46Pa3EsteFguGxW/F081rYrWr020+ldQ==",
+  "success": true,
+  "projectFilePath": "D:\\Softwares\\FSE\\prdManageLmda\\prdManageLmda\\prdManageLmda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HemaBhargav\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.4.0\\amazon.lambda.apigatewayevents.2.4.0.nupkg.sha512",
+    "C:\\Users\\HemaBhargav\\.nuget\\packages\\amazon.lambda.applicationloadbalancerevents\\2.1.0\\amazon.lambda.applicationloadbalancerevents.2.1.0.nupkg.sha512",
+    "C:\\Users\\HemaBhargav\\.nuget\\packages\\amazon.lambda.aspnetcoreserver\\7.0.1\\amazon.lambda.aspnetcoreserver.7.0.1.nupkg.sha512",
+    "C:\\Users\\HemaBhargav\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\HemaBhargav\\.nuget\\packages\\amazon.lambda.logging.aspnetcore\\3.1.0\\amazon.lambda.logging.aspnetcore.3.1.0.nupkg.sha512",
+    "C:\\Users\\HemaBhargav\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.2.0\\amazon.lambda.serialization.systemtextjson.2.2.0.nupkg.sha512",
+    "C:\\Users\\HemaBhargav\\.nuget\\packages\\awssdk.core\\3.7.5.8\\awssdk.core.3.7.5.8.nupkg.sha512",
+    "C:\\Users\\HemaBhargav\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.2.4\\awssdk.dynamodbv2.3.7.2.4.nupkg.sha512",
+    "C:\\Users\\HemaBhargav\\.nuget\\packages\\awssdk.lambda\\3.7.8.7\\awssdk.lambda.3.7.8.7.nupkg.sha512",
+    "C:\\Users\\HemaBhargav\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.0\\microsoft.extensions.configuration.2.1.0.nupkg.sha512",
+    "C:\\Users\\HemaBhargav\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.0\\microsoft.extensions.configuration.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\HemaBhargav\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.0\\microsoft.extensions.configuration.binder.2.1.0.nupkg.sha512",
+    "C:\\Users\\HemaBhargav\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\HemaBhargav\\.nuget\\packages\\microsoft.extensions.logging\\2.1.0\\microsoft.extensions.logging.2.1.0.nupkg.sha512",
+    "C:\\Users\\HemaBhargav\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.0\\microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\HemaBhargav\\.nuget\\packages\\microsoft.extensions.options\\2.1.0\\microsoft.extensions.options.2.1.0.nupkg.sha512",
+    "C:\\Users\\HemaBhargav\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "C:\\Users\\HemaBhargav\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\HemaBhargav\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
