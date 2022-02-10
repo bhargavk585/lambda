@@ -28,8 +28,8 @@ namespace prdManageLmda.controllers
 
         public ProductController()
         {
-            _accessKey = "AKIAX2EXRNUVBY3KN6E7"; //Environment.GetEnvironmentVariable("AccessKey");
-            _secretKey = "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"; //Environment.GetEnvironmentVariable("SecretKey");
+            _accessKey = "XXXXXXXX"; //Environment.GetEnvironmentVariable("AccessKey");
+            _secretKey = "XXXXXXXXX"; //Environment.GetEnvironmentVariable("SecretKey");
             _serviceUrl = "https://dynamodb.us-east-2.amazonaws.com";//Environment.GetEnvironmentVariable("ServiceURL");
         }
 
